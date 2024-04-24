@@ -1,7 +1,19 @@
-# Proyectos-Propios
-Este es el repositorio de mis proyectos personales. 
-Con el paso del tiempo ire agregando más proyectos, al pricipio pequeños y simples y con el tiempo mas grandes, ambiciosos y complejos. 
-La idea es que esta carpeta contenga todo lo que vaya haciendo y posteriormente se transforme en mi portfolio.
-Mi trabajo sera principalmente en el lenguaje de python, orientado tanto a la programacion a objetos como al trabajo de analisis de datos y el desarrollo de software.
-No descarto la posibilidad de hacer algun proyecto de otro lenguaje.
-La idea es poder tener varios proyectos, subirlos a una pagina web y que esten disponibles para cualquier persona que le interese verlos y probarlos.
+# Repositorio de Proyectos en Python
+
+¡Bienvenido/a a mi repositorio de proyectos personales en Python!
+
+En este repositorio, encontrarás una colección en constante crecimiento de mis proyectos desarrollados en el lenguaje Python. Desde proyectos iniciales más simples hasta desarrollos más complejos y ambiciosos, esta carpeta refleja mi progreso y evolución como desarrollador.
+
+## Objetivo
+
+El propósito principal de este repositorio es servir como un registro de mis trabajos personales en Python. Con el tiempo, estos proyectos no solo demostrarán mi habilidad técnica, sino que también servirán como parte de mi portafolio profesional.
+
+## Contenido
+
+Los proyectos aquí presentes abarcan diversas áreas, incluyendo programación orientada a objetos, análisis de datos y desarrollo de software. Cada proyecto está cuidadosamente documentado y organizado para una fácil comprensión y reutilización.
+
+## Contribuciones
+
+Siéntete libre de explorar los proyectos y sugerir mejoras o contribuir con tus propios aportes. Las contribuciones son bienvenidas y apreciadas.
+
+¡Gracias por visitar mi repositorio!
